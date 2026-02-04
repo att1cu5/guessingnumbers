@@ -1,5 +1,4 @@
 tries=10000
-
 for u in range(0,10):
    print(u,u,u,u)
 print("tries ",tries-u)   
@@ -18,3 +17,9 @@ print("tries ",tries-u-j-y-h-q)
 for f in range(0,9):
     print(0,0,0,f+1)
 print("tries ",tries-u-j-y-h-q-f) 
+for n in range(3,10):
+    print(n-3,n-2,n-1,n)
+print("tries ",tries-u-j-y-h-q-f-n) 
+for o in range(3,10):
+    print(o,o-1,o-2,o-3)
+print("tries ",tries-u-j-y-h-q-f-n-o) 
