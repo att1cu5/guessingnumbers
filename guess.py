@@ -72,6 +72,9 @@ print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-sa-va-ea)
 for c in range(1,10):
    print(6,6,c,0)
 print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-c-sa-va-ea)
+for i in range(1,10):
+   print(4,4,i,0)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-c-sa-va-ea-i)
 for wa in range(1,10):
    print(9,9,wa,0)
-print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-wa-sa-va-ea-c)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-wa-sa-va-ea-c-i)
