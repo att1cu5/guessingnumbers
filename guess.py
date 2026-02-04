@@ -60,6 +60,18 @@ print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e)
 for qa in range(1,10):
    print(3,3,qa,0)
 print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa)
+for va in range(1,10):
+   print(6,6,va,0)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-va)
+for ea in range(1,10):
+   print(7,7,ea,0)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-ea-va)
+for sa in range(1,10):
+   print(8,8,sa,0)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-sa-va-ea)
+for c in range(1,10):
+   print(6,6,c,0)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-c-sa-va-ea)
 for wa in range(1,10):
    print(9,9,wa,0)
-print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-wa)
+print("tries ",tries-u-j-y-h-q-f-n-o-k-w-e-qa-wa-sa-va-ea-c)
